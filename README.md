@@ -1,7 +1,7 @@
 # rdm-png
 
 ### Decoding a delta frame at 120 fps using WebGL.
-###[demo](https://mizt.github.io/rdm-png/)
+### [demo](https://mizt.github.io/rdm-png/)
 
 ###### using [Big Buck Bunny](https://peach.blender.org/trailer-page/) as the source material.
 
